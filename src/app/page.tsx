@@ -276,9 +276,9 @@ export default async function Home() {
         speed="slow"
       /> */}
       {/* <div className=''><br/></div> */}
-      <section className=''>
+{/*       <section className=''>
         <HeroParallax products={products}></HeroParallax>
-      </section>
+      </section> */}
       
 
       <section className="flex justify-center items-center flex-col gap-4 mt-10">
