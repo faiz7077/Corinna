@@ -269,12 +269,12 @@ export default async function Home() {
               />
             </div>
       </section>
-      {/* <InfiniteMovingCards
+      <InfiniteMovingCards
         className="md:mt-[10rem] mt-[-100px]"
         items={clients}
         direction="right"
         speed="slow"
-      /> */}
+      />
       {/* <div className=''><br/></div> */}
 {/*       <section className=''>
         <HeroParallax products={products}></HeroParallax>
