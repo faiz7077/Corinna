@@ -1,6 +1,6 @@
 ## Corinna - AI
 
-This project is licensed for educational use only. For commercial use, a license must be purchased. 
+
 
 
 Here are a few examples of how you can and cannot use the code:
