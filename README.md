@@ -1,7 +1,7 @@
 ## License
 
 This project is licensed for educational use only. For commercial use, a license must be purchased. 
-## Usage Guidelines
+
 
 Here are a few examples of how you can and cannot use the code:
 
